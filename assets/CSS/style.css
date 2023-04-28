@@ -1,0 +1,35 @@
+body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background: #eee;
+}
+div.error{
+    width: 100%;
+    height: 500px;
+    text-align: center;
+    position: relative;
+}
+h1{
+    margin: 50px 0;
+}
+div.btn{
+    width: 100%;
+    height: auto;
+    position: absolute;
+    margin: 0 auto;
+}
+.boton{
+    cursor: pointer;
+    background: #434343;
+    border-radius: 20px;
+    text-align: center;
+    width: 150px;
+    height: 40px;
+    margin: 0 auto;
+}
+button a{
+    color: #fff;
+    text-decoration: none;
+}
